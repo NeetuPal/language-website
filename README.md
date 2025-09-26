@@ -31,3 +31,24 @@ node -v # Should print "v22.20.0".
 ```
 npm -v # Should print "10.9.3".
 ```
+# Python
+---------
+#Install Python & pip (if not already installed)
+```
+sudo apt update
+sudo apt install -y python3 python3-pip python3-venv
+```
+# Create a Virtual Environment (Recommended)
+```
+cd ~/python-demoapp/src
+python3 -m venv venv
+source venv/bin/activate
+```
+```
+deactivate
+```
+```
+pip install -r requirements.txt
+
+python run.py
+```
