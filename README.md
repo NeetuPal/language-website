@@ -1,9 +1,9 @@
 # language-website
 ### java
 --------
-mvn package
-.pom is dependencies file like which java version(properties)
-target folder have .jar file executable
+mvn package <br>
+.pom is dependencies file like which java version(properties) <br>
+target folder have .jar file executable <br>
 java -jar .jar
 
 ### Dotnet
