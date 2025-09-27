@@ -6,6 +6,9 @@
 sudo apt-get update && \
 sudo apt-get install -y dotnet-sdk-8.0
 ```
+.csproj is for dependencies like which dotnet version
+.cs is for which ip and port app will run
+
 ### Nodejs
 ---------
 # Download and install nvm:
