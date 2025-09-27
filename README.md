@@ -18,6 +18,12 @@ dotnet run
 
 ### Nodejs
 ---------
+
+package.json is dependency file <br>
+node modules folder as executable <br>
+npm install <br>
+npm start to run app <br>
+
 # Download and install nvm:
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
@@ -49,6 +55,10 @@ sudo apt update
 sudo apt install -y python3 python3-pip python3-venv
 ```
 # Create a Virtual Environment (Recommended)
+pytest <br>
+flask run <br>
+
+
 ```
 cd ~/python-demoapp/src
 python3 -m venv venv
