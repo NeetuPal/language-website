@@ -23,6 +23,7 @@ package.json is dependency file <br>
 node modules folder as executable <br>
 npm install <br>
 npm start to run app <br>
+.mjs is for port known <br>
 
 # Download and install nvm:
 ```
